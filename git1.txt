@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Nara Jiminez - git 1
 Maria Garriga - modificació
 
-Prueba M08
+=======
+Maria Garriga editando
+>>>>>>> 349b0df87a1adbdc29cb28995e7e84a159edd573
